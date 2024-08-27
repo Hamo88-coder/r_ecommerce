@@ -1,0 +1,8 @@
+
+
+.categ-card > .card-img , .card-img > img {
+    width: 100%;
+}
+.card-img > img {
+    object-fit: cover;
+}

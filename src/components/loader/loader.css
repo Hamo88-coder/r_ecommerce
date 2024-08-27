@@ -1,0 +1,12 @@
+
+.load-screen {
+    top: 0;
+    left: 0;
+    z-index: 0;
+    text-align: center;
+    padding: 50vh;
+    position: absolute;
+    width: 100%;
+    height: -webkit-fill-available;
+    background-color: #9292926b ;
+}
